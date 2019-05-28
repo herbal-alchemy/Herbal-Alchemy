@@ -25,5 +25,10 @@ hs_err_pid*
 # IntelliJ project information
 .idea/
 
+# Eclipse project information
+/bin/
+.classpath
+.project
+
 # MC specific stuff
 run/
