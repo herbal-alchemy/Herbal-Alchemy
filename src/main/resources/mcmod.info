@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "herbalalchemy",
+    "name": "Herbal Alchemy",
+    "description": "Lorem ipsum.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/herbal-alchemy",
+    "updateUrl": "",
+    "authorList": ["bl4ckscor3", "realmayus"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": []
+  }
+]

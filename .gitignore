@@ -32,3 +32,6 @@ hs_err_pid*
 
 # MC specific stuff
 run/
+build/
+classes/
+.gradle/
